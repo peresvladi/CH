@@ -1,0 +1,15 @@
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/refint/Example003_Sum.dll
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
+/home/vladi/Exampls/Example001_HelloConsole/Example002_HelloUser/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
