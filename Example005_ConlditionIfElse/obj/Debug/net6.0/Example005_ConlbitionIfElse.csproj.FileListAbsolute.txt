@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.AssemblyInfo.cs
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/bin/Debug/net6.0/Example005_ConlbitionIfElse
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/bin/Debug/net6.0/Example005_ConlbitionIfElse.deps.json
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/bin/Debug/net6.0/Example005_ConlbitionIfElse.runtimeconfig.json
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/bin/Debug/net6.0/Example005_ConlbitionIfElse.dll
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/bin/Debug/net6.0/Example005_ConlbitionIfElse.pdb
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.dll
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/refint/Example005_ConlbitionIfElse.dll
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.pdb
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/Example005_ConlbitionIfElse.genruntimeconfig.cache
+/home/vladi/GB/Exampls/Example005_ConlditionIfElse/obj/Debug/net6.0/ref/Example005_ConlbitionIfElse.dll
