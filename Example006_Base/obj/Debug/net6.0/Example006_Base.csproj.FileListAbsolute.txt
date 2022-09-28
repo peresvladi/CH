@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/Example006_Base/bin/Debug/net6.0/Example006_Base
+/home/vladi/GB/Exampls/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/home/vladi/GB/Exampls/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/home/vladi/GB/Exampls/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/home/vladi/GB/Exampls/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/refint/Example006_Base.dll
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
+/home/vladi/GB/Exampls/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
