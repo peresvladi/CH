@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/Exampl007_Magic/bin/Debug/net6.0/Exampl007_Magic
+/home/vladi/GB/Exampls/Exampl007_Magic/bin/Debug/net6.0/Exampl007_Magic.deps.json
+/home/vladi/GB/Exampls/Exampl007_Magic/bin/Debug/net6.0/Exampl007_Magic.runtimeconfig.json
+/home/vladi/GB/Exampls/Exampl007_Magic/bin/Debug/net6.0/Exampl007_Magic.dll
+/home/vladi/GB/Exampls/Exampl007_Magic/bin/Debug/net6.0/Exampl007_Magic.pdb
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.AssemblyInfo.cs
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.dll
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/refint/Exampl007_Magic.dll
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.pdb
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/Exampl007_Magic.genruntimeconfig.cache
+/home/vladi/GB/Exampls/Exampl007_Magic/obj/Debug/net6.0/ref/Exampl007_Magic.dll
