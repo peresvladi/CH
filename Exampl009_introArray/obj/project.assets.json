@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vladi/GB/Exampls/Example008_introM/Example008_introM.csproj",
-      "projectName": "Example008_introM",
-      "projectPath": "/home/vladi/GB/Exampls/Example008_introM/Example008_introM.csproj",
+      "projectUniqueName": "/home/vladi/GB/Exampls/Exampl009_introArray/Exampl009_introArray.csproj",
+      "projectName": "Exampl009_introArray",
+      "projectPath": "/home/vladi/GB/Exampls/Exampl009_introArray/Exampl009_introArray.csproj",
       "packagesPath": "/home/vladi/.nuget/packages/",
-      "outputPath": "/home/vladi/GB/Exampls/Example008_introM/obj/",
+      "outputPath": "/home/vladi/GB/Exampls/Exampl009_introArray/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vladi/.nuget/NuGet/NuGet.Config"

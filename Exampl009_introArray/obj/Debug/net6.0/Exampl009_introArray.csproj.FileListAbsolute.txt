@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.AssemblyInfo.cs
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/Exampl009_introArray/bin/Debug/net6.0/Exampl009_introArray
+/home/vladi/GB/Exampls/Exampl009_introArray/bin/Debug/net6.0/Exampl009_introArray.deps.json
+/home/vladi/GB/Exampls/Exampl009_introArray/bin/Debug/net6.0/Exampl009_introArray.runtimeconfig.json
+/home/vladi/GB/Exampls/Exampl009_introArray/bin/Debug/net6.0/Exampl009_introArray.dll
+/home/vladi/GB/Exampls/Exampl009_introArray/bin/Debug/net6.0/Exampl009_introArray.pdb
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.dll
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/refint/Exampl009_introArray.dll
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.pdb
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/Exampl009_introArray.genruntimeconfig.cache
+/home/vladi/GB/Exampls/Exampl009_introArray/obj/Debug/net6.0/ref/Exampl009_introArray.dll
