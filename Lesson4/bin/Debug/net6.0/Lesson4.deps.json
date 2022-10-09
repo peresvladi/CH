@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "chEd/1.0.0": {
+      "Lesson4/1.0.0": {
         "runtime": {
-          "chEd.dll": {}
+          "Lesson4.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "chEd/1.0.0": {
+    "Lesson4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

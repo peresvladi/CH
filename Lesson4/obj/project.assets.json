@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vladi/GB/Exampls/chEd/chEd.csproj",
-      "projectName": "chEd",
-      "projectPath": "/home/vladi/GB/Exampls/chEd/chEd.csproj",
+      "projectUniqueName": "/home/vladi/GB/Exampls/Lesson4/Lesson4.csproj",
+      "projectName": "Lesson4",
+      "projectPath": "/home/vladi/GB/Exampls/Lesson4/Lesson4.csproj",
       "packagesPath": "/home/vladi/.nuget/packages/",
-      "outputPath": "/home/vladi/GB/Exampls/chEd/obj/",
+      "outputPath": "/home/vladi/GB/Exampls/Lesson4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vladi/.nuget/NuGet/NuGet.Config"
