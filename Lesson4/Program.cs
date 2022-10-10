@@ -1,4 +1,7 @@
-﻿// СХЕМА ОПИСАНИЯ 2 МЕРНОГО МАССИВА
+﻿
+//СХЕМА ОПИСАНИЯ 2 МЕРНОГО МАССИВА
+
+
 // 1 - тип данных
 // 2 - квадратные скобки с запятой которая указыает на 2 мерность (м.м.т.к. разделяет пространство между скобок на 2 части)
 // 3 - имя массива (индефикатор)
@@ -128,8 +131,8 @@ void PrintImage(int[,] image)
         for (int j = 0; j < image.GetLength(1); j++)
         {
             //Cjnsole.Write($"{image[i, j]} ");
-            if(image[i,j] == 0) Console.WriteLine($" ");
-            else Console.WriteLine($"+");
+            if(image[i,j] == 0) Console.Write($" ");
+            else Console.Write($"1");
         }
     }
 }
