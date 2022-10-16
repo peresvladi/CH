@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.AssemblyInfo.cs
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/Example008_introM/bin/Debug/net6.0/Example008_introM
+/home/vladi/GB/Exampls/Example008_introM/bin/Debug/net6.0/Example008_introM.deps.json
+/home/vladi/GB/Exampls/Example008_introM/bin/Debug/net6.0/Example008_introM.runtimeconfig.json
+/home/vladi/GB/Exampls/Example008_introM/bin/Debug/net6.0/Example008_introM.dll
+/home/vladi/GB/Exampls/Example008_introM/bin/Debug/net6.0/Example008_introM.pdb
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.dll
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/refint/Example008_introM.dll
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.pdb
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/Example008_introM.genruntimeconfig.cache
+/home/vladi/GB/Exampls/Example008_introM/obj/Debug/net6.0/ref/Example008_introM.dll

@@ -1,0 +1,73 @@
+<mxfile host="65bd71144e">
+    <diagram id="-7bZWb8Tsvr0UDhTgCIt" name="Страница 1">
+        <mxGraphModel dx="1262" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106 , 153 , 85) ; font-size: 10px&quot;&gt;// ShTask 25. Напишите цикл который принимает на вход два цисла (А и В), &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(106 , 153 , 85) ; font-size: 10px&quot;&gt;// и возводит число А в натуральную степень В.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="377" y="-30" width="450" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;fontSize=10;fontColor=#FFFFFF;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;span style=&quot;background-color: rgb(51 , 51 , 51)&quot;&gt;Start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;align=center;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="30" width="270" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Console.WriteLine($&quot;Натуралльная степень &lt;br&gt;А &lt;sup&gt;B&lt;/sup&gt; = {a}&quot;);" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;fillColor=default;shadow=0;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="340" width="270" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;fontSize=10;fontColor=#FFFFFF;" parent="1" source="5" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;pre&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace ; font-size: 10px ; color: rgb(255 , 255 , 255) ; white-space: normal ; background-color: rgb(51 , 51 , 51)&quot;&gt;Console.Write (&quot;Введите число: &quot;);&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 10px ; color: rgb(255 , 255 , 255) ; font-family: &amp;#34;helvetica&amp;#34; ; white-space: normal ; background-color: rgb(51 , 51 , 51)&quot;&gt;int a = int.Parse(Console.WreadLine());&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(51 , 51 , 51)&quot;&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 10px ; font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;Console.Write (&quot;Введите число: &quot;);&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 10px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; white-space: normal&quot;&gt;int a = int.Parse(Console.WreadLine());&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=default;size=20;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="70" width="350" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;fontSize=10;fontColor=#FFFFFF;" parent="1" source="8" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="for (i = 0; i &amp;lt;&amp;nbsp;b; i++)&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="160" width="270" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="a=a*a;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="260" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;fontSize=10;fontColor=#FFFFFF;" parent="1" source="12" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="240" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=classic;html=1;fontSize=10;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="10" target="8" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="470" y="290" as="sourcePoint"/>
+                        <mxPoint x="430" y="160" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="440" y="290"/>
+                            <mxPoint x="440" y="160"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=classic;html=1;fontSize=10;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.016;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8" target="4" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="820" y="310" as="sourcePoint"/>
+                        <mxPoint x="820" y="330" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="800" y="200"/>
+                            <mxPoint x="800" y="240"/>
+                            <mxPoint x="800" y="377"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="&lt;span style=&quot;background-color: rgb(51 , 51 , 51)&quot;&gt;Finish&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=default;align=center;rotation=0;" parent="1" vertex="1">
+                    <mxGeometry x="481" y="456" width="270" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;fontSize=10;fontColor=#FFFFFF;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="620" y="423" as="sourcePoint"/>
+                        <mxPoint x="620" y="457" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
