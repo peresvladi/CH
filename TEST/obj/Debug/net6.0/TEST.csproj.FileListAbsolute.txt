@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.AssemblyInfo.cs
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/TEST/bin/Debug/net6.0/TEST
+/home/vladi/GB/Exampls/TEST/bin/Debug/net6.0/TEST.deps.json
+/home/vladi/GB/Exampls/TEST/bin/Debug/net6.0/TEST.runtimeconfig.json
+/home/vladi/GB/Exampls/TEST/bin/Debug/net6.0/TEST.dll
+/home/vladi/GB/Exampls/TEST/bin/Debug/net6.0/TEST.pdb
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.dll
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/refint/TEST.dll
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.pdb
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/TEST.genruntimeconfig.cache
+/home/vladi/GB/Exampls/TEST/obj/Debug/net6.0/ref/TEST.dll
