@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.AssemblyInfo.cs
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/bin/Debug/net6.0/S1.1
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/bin/Debug/net6.0/S1.1.deps.json
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/bin/Debug/net6.0/S1.1.runtimeconfig.json
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/bin/Debug/net6.0/S1.1.dll
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/bin/Debug/net6.0/S1.1.pdb
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.dll
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/refint/S1.1.dll
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.pdb
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/S1.1.genruntimeconfig.cache
+/home/vladi/GB/Exampls/SeminarsCh/S1.1/obj/Debug/net6.0/ref/S1.1.dll
