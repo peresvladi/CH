@@ -19,7 +19,6 @@ Console.WriteLine($"{num}{" -> "}{x}"); */
 Console.Clear();
 Console.WriteLine("Введите число:  ");
 int num = int.Parse(Console.ReadLine());
-// int num = 100;
 double num1 = num;
 int div1 = 1;
 double div3 = 0.1;
