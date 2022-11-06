@@ -1,4 +1,34 @@
-﻿using System;
+﻿// ChTask44: не исполльзую рекурсию выведител первые N чисел Фибоначи. Первые два числа Фибоначчи: 0 и 1.
+
+using System;
+using static System.Console;
+
+Clear();
+WriteLine("Введите число N определяющее колличества символов которыми будет задано длинна ряда чисел Фибоначчи начинающиеся с 0 и 1");
+int colvo = int.Parse(ReadLine());
+void fibonahhi(int[]arr)
+{
+int i = 0;
+arr[i] = i;
+i = 1;
+arr[i] = i;
+arr[i+1] = i;
+while (i < colvo - 1)
+{
+ i++;
+ arr[i] = arr[i-1] + arr[i-2];
+}
+}
+int[]array = new int[colvo];
+fibonahhi(array);
+WriteLine(String.Join(" ", array));
+
+
+
+
+
+
+/* using System;
 using static System.Console;
 
 Clear();
@@ -11,7 +41,7 @@ string box1 = (tennum % 2).ToString("G");
 box2 = box1 + " " + box2;
 tennum = tennum / 2;
 }
-WriteLine(box2);
+WriteLine(box2); */
  
  
 
@@ -25,21 +55,7 @@ WriteLine(box2);
 
 
 
-/* Console.Clear();
-Console.WriteLine("Введите десятичное число");
-int num = int.Parse(Console.ReadLine());
-// int [] size =  new int [((long)num)];
-int size = 
-int I = 0;
-while (num <= 1)
-{
-    int DoudlNum = num / 2;
-    
-   
-   I++;
 
-
-} */
 
 
 

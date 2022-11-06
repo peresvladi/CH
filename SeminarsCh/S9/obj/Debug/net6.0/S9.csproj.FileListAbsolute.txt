@@ -1,0 +1,15 @@
+/home/vladi/GB/Exampls/SeminarsCh/S9/bin/Debug/net6.0/S9
+/home/vladi/GB/Exampls/SeminarsCh/S9/bin/Debug/net6.0/S9.deps.json
+/home/vladi/GB/Exampls/SeminarsCh/S9/bin/Debug/net6.0/S9.runtimeconfig.json
+/home/vladi/GB/Exampls/SeminarsCh/S9/bin/Debug/net6.0/S9.dll
+/home/vladi/GB/Exampls/SeminarsCh/S9/bin/Debug/net6.0/S9.pdb
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.csproj.AssemblyReference.cache
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.AssemblyInfoInputs.cache
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.AssemblyInfo.cs
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.csproj.CoreCompileInputs.cache
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.dll
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/refint/S9.dll
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.pdb
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/S9.genruntimeconfig.cache
+/home/vladi/GB/Exampls/SeminarsCh/S9/obj/Debug/net6.0/ref/S9.dll

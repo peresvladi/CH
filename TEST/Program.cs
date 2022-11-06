@@ -44,6 +44,101 @@ int max = Max(max1, max2, max3);
 Console.WriteLine(max); */
 
 
+
+
+
+/* using System;
+using static System.Console;
+ 
+
+
+    class Program
+    {
+        public static int Depth = 0;
+        public static UInt64 AckermannFunc(UInt64 m, UInt64 n) {
+            Depth++;
+            if (m == 0)
+                return n + 1;
+            if (n == 0)
+                return AckermannFunc(m - 1, 1);
+            return AckermannFunc(m - 1, AckermannFunc(m, n - 1));
+        }
+ 
+        static void Main(string[] args) {
+            WriteLine(AckermannFunc(3, 5));
+            WriteLine(Depth);
+        }
+    } */
+
+
+/* using System;
+
+namespace ConsoleApp
+{
+    class Program
+    {
+        public static int Depth = 0;
+        public static UInt64 AckermannFunc(UInt64 m, UInt64 n)
+        {
+            Depth++;
+            if (m == 0)
+                return n + 1;
+            if (n == 0)
+                return AckermannFunc(m - 1, 1);
+            return AckermannFunc(m - 1, AckermannFunc(m, n - 1));
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine(AckermannFunc(3, 5));
+            Console.WriteLine(Depth);
+        }
+    }
+} */
+
+
+/* Console.WriteLine("Введите M:");
+int numM = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите N:");
+int namN = int.Parse(Console.ReadLine());
+
+///Метод вычисления функции Аккермана:
+int AckermannFunction (int numM, int namN)
+{
+    if (numM == 0) return namN + 1;
+    if (numM != 0 && namN == 0) return AckermannFunction(numM - 1, 1);
+    if (numM > 0 && namN > 0) return AckermannFunction(numM - 1, AckermannFunction(numM, namN - 1));
+return AckermannFunction(numM, namN);
+}
+
+Console.WriteLine($"Функция Аккермана для чисел A({numM},{namN}) = {AckermannFunction(numM, namN)}");
+
+ */
+
+/* Console.WriteLine("Введите начальное число M:");
+double numM = 3;//double.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите начальное число N:");
+double namN = 5;//double.Parse(Console.ReadLine());
+
+///Метод вычисления функции Аккермана:
+double AckermannFunction (double numM, double namN)
+{
+            if (numM == 0) return numM + 1;
+            if (namN == 0) return AckermannFunction(numM - 1, 1);
+            return AckermannFunction(numM - 1, AckermannFunction(numM, numM - 1));
+
+   // if (numM == 0) return namN + 1;
+     //if (numM != 0 && namN == 0) return AckermannFunction(numM - 1, 1);
+    // if (numM > 0 && namN > 0) return AckermannFunction(numM - 1, AckermannFunction(numM, namN - 1));
+ //return AckermannFunction(numM, namN);
+}
+
+Console.WriteLine($"Функция Аккермана для чисел A({numM},{namN}) = {AckermannFunction(numM, namN)}");
+ */
+
+
 // РАБОЧИЙ КОД
 
 
@@ -474,3 +569,107 @@ return false;
 
 
  */
+
+ //Task64
+
+
+
+/* using System;
+using static System.Console;
+
+Clear();
+Write ("Введите N: ");
+int N = 2;//int.Parse(ReadLine());
+Write ("Введите M: ");
+int M = 9;//int.Parse(ReadLine());
+
+WriteLine(PN(N,M));
+
+string PN (int start, int finish)
+{
+    if (start == finish) return start.ToString();
+    return (start + " " + PN(start + 1, finish));
+} 
+ */
+
+
+// Task66
+/* 
+using System;
+using static System.Console;
+
+Clear();
+Write ("Введите N: ");
+int N = int.Parse(ReadLine());
+Write ("Введите M: ");
+int M = int.Parse(ReadLine());
+
+WriteLine(SUM(N,M));
+
+int SUM (int start, int finish)
+{
+    if (start == finish) return start;
+    return (start + SUM(start + 1, finish));
+}
+ */
+
+
+// Task68
+
+
+
+/* 
+using System;
+using static System.Console;
+
+Write("Введите число M: ");
+double m = double.Parse(ReadLine());
+
+Write("Введите число N: ");
+double n = double.Parse(ReadLine()); 
+
+AkkermanFunction(m,n);
+
+
+// вызов функции Аккермана
+void AkkermanFunction(double m, double n)
+{
+    Write(AkkermanFunct(m, n)); 
+}
+
+// функция Аккермана
+double AkkermanFunct(double m, double n)
+{
+    if (m == 0)
+    {
+        return n + 1;
+    }
+    else if (n == 0 && m > 0)
+    {
+        return AkkermanFunct(m - 1, 1);
+    }
+    else
+    {
+        return (AkkermanFunct(m - 1, AkkermanFunct(m, n - 1)));
+    }
+} 
+ */
+
+ 
+/* 
+Console.WriteLine("Введите M:");
+double numM = double.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите N:");
+double namN = double.Parse(Console.ReadLine());
+
+
+double AckermFunct (double numM, double namN)
+{
+    if (numM == 0) return namN + 1;
+    if (numM != 0 && namN == 0) return AckermFunct(numM - 1, 1);
+    if (numM > 0 && namN > 0) return AckermFunct(numM - 1, AckermFunct(numM, namN - 1));
+return AckermFunct(numM, namN);
+}
+
+Console.WriteLine($"Результат: ({numM},{namN}) = {AckermFunct(numM, namN)}"); */
