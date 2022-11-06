@@ -1,4 +1,4 @@
-﻿int a1 = 15;
+﻿i/* nt a1 = 15;
 int b1 = 21;
 int c1 = 39;
 int a2 = 12;
@@ -14,4 +14,4 @@ int max3 = Max(a3, b3, c3);
 
 int max = Max(max1, max2, max3);
 
-Console.WriteLine(max);
+Console.WriteLine(max); */

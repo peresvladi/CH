@@ -18,6 +18,27 @@ void PrintArray(int[]col) // метод распечатывает массив
         position++;
     }
 }
+
+int IndixOF (int[]Collection, int find)
+{
+    int count = Collection.Length;
+    int index = 0;
+    int position = -1; // -1 будет возвращаться, если индрекс в массиве отсутствует
+    while(index < count)
+    {
+        if(Collection[index] == find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+
+}
 int[] array = new int[10]; // создаем новый массив из 10 элементов (по умолчанию такой массив наполнен элементами со значение "0")
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
+int pos = IndixOF(array, 4);
+Console.WriteLine(pos);
