@@ -1,4 +1,46 @@
-﻿using System;
+﻿// Задача 69.__ Напишите программу которая на входе принимает два числа А и В, 
+//и возводите число А в целую степень В (с помощью рекурсии).
+using System;
+using static System.Console;
+
+WriteLine("Введител числа A");
+double A = double.Parse(ReadLine());
+
+WriteLine("Введител числа B");
+double B = double.Parse(ReadLine());
+
+WriteLine(RaisingAtoThePowerOfB (A, B));
+double RaisingAtoThePowerOfB(double C, double D)
+{
+  if (D == 0)
+{
+  return (1);
+}
+
+  else
+  {
+    return (C*C) + RaisingAtoThePowerOfB(C, D-1);
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+using System;
 using static System.Console;
 Clear();
 WriteLine("Введите N ");
@@ -18,8 +60,14 @@ else
 }
 }  
 
+ */
 
-/* using System;
+
+
+/* 
+
+
+using System;
 using static System.Console;
 
 Clear();
