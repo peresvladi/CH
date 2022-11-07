@@ -2,7 +2,7 @@
 using static System.Console;
 Clear();
 WriteLine("Введите N ");
-int N = 579;//int.Parse(ReadLine());
+int N = int.Parse(ReadLine());
 
 WriteLine (Copilka(N));
 int Copilka(int x)
