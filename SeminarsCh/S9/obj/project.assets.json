@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Peres\\.nuget\\packages\\": {}
+    "/home/vladi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB\\SeminarsCh\\S9\\S9.csproj",
+      "projectUniqueName": "/home/vladi/GB/Exampls/SeminarsCh/S9/S9.csproj",
       "projectName": "S9",
-      "projectPath": "D:\\GB\\SeminarsCh\\S9\\S9.csproj",
-      "packagesPath": "C:\\Users\\Peres\\.nuget\\packages\\",
-      "outputPath": "D:\\GB\\SeminarsCh\\S9\\obj\\",
+      "projectPath": "/home/vladi/GB/Exampls/SeminarsCh/S9/S9.csproj",
+      "packagesPath": "/home/vladi/.nuget/packages/",
+      "outputPath": "/home/vladi/GB/Exampls/SeminarsCh/S9/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Peres\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/vladi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
