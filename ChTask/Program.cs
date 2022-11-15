@@ -33,3 +33,7 @@ string ArraySelection (string[]Arr)
     }
     return sum;
 }
+void Print (string msg, string[]PrintArray)
+{
+    WriteLine(msg + String.Join(" ", PrintArray));
+}
