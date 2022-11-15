@@ -37,3 +37,23 @@ void Print (string msg, string[]PrintArray)
 {
     WriteLine(msg + String.Join(" ", PrintArray));
 }
+
+WriteLine(" Инициированная программа автоматически формирует массив заполненый случайными текстовыми элементами (string) из которого создает массив заполненый текстовыми элементами длиной 3 и менее символов. Для  выхода введите минус (-), для продолжения выполнения программы введите плюс (+)");
+string YesNo = "+";  //ReadLine();
+SelectsStop(YesNo);
+void SelectsStop(string Stop)
+{
+    if(Stop != "+")
+    {
+       WriteLine("Ввод любых символов за исключением знака +, ведет к выходу из программы. Выполнение программы завершено. "); 
+    }
+    else
+    {
+    String [] Array = new string [9];
+    SelectContinueArrayCreating(Array);
+    string s = ArraySelection(Array);
+    String[]NewArray = s.Split(" ", System.StringSplitOptions.RemoveEmptyEntries);
+    Print("Полученный массив : ", NewArray);
+    }
+}
+
