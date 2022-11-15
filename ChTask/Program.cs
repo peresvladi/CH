@@ -20,3 +20,16 @@ for (int i = 0; i < ArrayCreation.Length; ++i)
 }
 Print("Базовый массив: ", ArrayCreation);
 }
+string ArraySelection (string[]Arr)
+{
+     string sum = string.Empty;
+    for (int x = 0; x < Arr.Length; ++x)
+    {   
+       if (Arr[x].Length <= 3)
+    {
+        sum = sum + " " + Arr[x];
+    }
+        
+    }
+    return sum;
+}
