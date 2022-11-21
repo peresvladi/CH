@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vladi/GB/Exampls/ChTask/ChTask4.csproj": {}
+    "/home/vladi/Education/GB/Exampls/ChTask/ChTask4.csproj": {}
   },
   "projects": {
-    "/home/vladi/GB/Exampls/ChTask/ChTask4.csproj": {
+    "/home/vladi/Education/GB/Exampls/ChTask/ChTask4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vladi/GB/Exampls/ChTask/ChTask4.csproj",
+        "projectUniqueName": "/home/vladi/Education/GB/Exampls/ChTask/ChTask4.csproj",
         "projectName": "ChTask4",
-        "projectPath": "/home/vladi/GB/Exampls/ChTask/ChTask4.csproj",
+        "projectPath": "/home/vladi/Education/GB/Exampls/ChTask/ChTask4.csproj",
         "packagesPath": "/home/vladi/.nuget/packages/",
-        "outputPath": "/home/vladi/GB/Exampls/ChTask/obj/",
+        "outputPath": "/home/vladi/Education/GB/Exampls/ChTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vladi/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
